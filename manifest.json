@@ -2,7 +2,7 @@
   "name": "Reddit r/random",
   "description": "The new Reddit layout removed the random subreddit button! This will add it back!",
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "permissions": [
       "activeTab"
     ],
